@@ -2,6 +2,9 @@
 
 Ce projet simule un oxymètre de pouls en traitant des signaux photopléthysmographiques (PPG) pour calculer la saturation en oxygène (SpO2) et la fréquence cardiaque. Le système applique des filtres numériques, extrait les caractéristiques des signaux, et affiche les résultats en temps réel.
 
+## Membres
+Marie EPINAT - Eloïse Grandjean
+
 ## Organisation du projet
 
 ```
